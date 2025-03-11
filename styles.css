@@ -9,3 +9,8 @@
     top: 0;
     left: 0;
 }
+
+.main_content{
+    margin-left: 250px; 
+    padding: 20px;
+}
