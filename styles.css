@@ -30,3 +30,10 @@
     max-width: 140px; 
     margin: 20px auto; 
 }
+
+.main-content{
+    display: flex;
+    height: 100vh;
+    margin-left: 250px;
+    font-family: "Times New Roman", Times, serif;
+}
