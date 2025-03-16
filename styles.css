@@ -33,6 +33,9 @@
 
 .main-content{
     display: flex;
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
     height: 100vh;
     font-family: "Times New Roman", Times, serif;
 }
