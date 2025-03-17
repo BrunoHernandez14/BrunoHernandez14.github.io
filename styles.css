@@ -27,9 +27,15 @@
     max-width: 140px; 
     margin: 20px auto; 
 }
-.main-content{
+.main-content {
+    display: flex;
+    height: 100vh;
     font-family: "Times New Roman", Times, serif;
+    margin-left: 270px;
+    align-items: flex-start; 
+    padding: 20px; 
 }
+
 .main-content about-me{
     font-family: "Times New Roman", Times, serif;
     font-size: 20px; 
