@@ -30,6 +30,7 @@
 .main-content {
     display: flex;
     height: 100vh;
+    flex-direction: column;
     font-family: "Times New Roman", Times, serif;
     margin-left: 270px;
     align-items: flex-start; 
