@@ -15,7 +15,9 @@
     justify-content: flex-start; 
     font-family: "Times New Roman", Times, serif;
 }
-.sidebar h{
+.brunoAI{
+    width: 400px;
+    height: 250px;
 }
 .profile-pic {
     width: 140px;  
