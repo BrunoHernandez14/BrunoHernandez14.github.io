@@ -18,6 +18,7 @@
 .main-content brunoAI{
     width: 400px;
     height: 250px;
+    object-fit: cover;
 }
 .profile-pic {
     width: 140px;  
