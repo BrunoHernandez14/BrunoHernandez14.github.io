@@ -15,7 +15,7 @@
     justify-content: flex-start; 
     font-family: "Times New Roman", Times, serif;
 }
-brunoAI{
+.brunoAI{
     width: 400px;
     height: auto;
     object-fit: cover;
