@@ -1,4 +1,6 @@
-/* Navigation Bar */
+/* 
+Navigation Bar 
+*/
 .navbar {
     width: 100%;
     background-color: black;
@@ -37,9 +39,12 @@
     border-radius: 5px;
 }
 
-/* Adjust main content so it doesn't go under the navbar */
+html {
+    scroll-behavior: smooth;
+}
+
 .main-content {
-    margin-top: 60px; /* Pushes content down so it doesn't overlap */
+    margin-top: 60px; 
     margin-left: 270px;
     padding: 20px;
 }
