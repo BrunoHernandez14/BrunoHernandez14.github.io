@@ -50,3 +50,21 @@ body {
     color: gray;
     margin-top: 10px;
 }
+
+.about-content{   
+    font-size: 20px;
+    color: black;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.description{
+    font-size: 24px;
+    color: gray;
+    margin: 0;
+    text-align: center;
+}
+
+html{
+    scroll-behavior: smooth;
+}
