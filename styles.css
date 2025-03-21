@@ -68,3 +68,24 @@ body {
 html{
     scroll-behavior: smooth;
 }
+
+.project{
+    font-size: 20px;
+    color: black;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.certifications{
+    font-size: 20px;
+    color: black;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.contact{
+    font-size: 20px;
+    color: black;
+    margin: 0 auto;
+    text-align: center;
+}
