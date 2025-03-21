@@ -51,7 +51,7 @@ body {
     margin-top: 10px;
 }
 
-.about-content{   
+.title{
     font-size: 20px;
     color: black;
     margin: 0 auto;
@@ -61,31 +61,9 @@ body {
 .description{
     font-size: 24px;
     color: gray;
-    margin: 0;
     text-align: center;
 }
 
 html{
     scroll-behavior: smooth;
-}
-
-.project{
-    font-size: 20px;
-    color: black;
-    margin: 0 auto;
-    text-align: center;
-}
-
-.certifications{
-    font-size: 20px;
-    color: black;
-    margin: 0 auto;
-    text-align: center;
-}
-
-.contact{
-    font-size: 20px;
-    color: black;
-    margin: 0 auto;
-    text-align: center;
 }
