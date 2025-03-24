@@ -3,6 +3,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 .navbar {
     width: 100%;
     background-color: black;
@@ -64,6 +68,8 @@ body {
     text-align: center;
 }
 
-html{
-    scroll-behavior: smooth;
+.img{
+    width: 500px;
+    height: auto;
+    display: block;
 }
