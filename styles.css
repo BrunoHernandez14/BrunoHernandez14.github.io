@@ -74,25 +74,6 @@ html{
     display: block;
 }
 
-
-.bio-buttons{
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    background-color: black;
-    color: white;
-    border: none;
-    font-size: 12px;
-    text-align: center;
-    padding: 10px;
-    cursor: pointer;
-    transition: transform 0.2s ease;
-}
-
-.bio-buttons:hover {
-    transform: scale(1.1);
-}
-
 .button-row {
     display: flex;
     gap: 20px;
@@ -117,4 +98,3 @@ html{
 .image-buttons:hover{
     transform: scale(1.1);
 }
-
