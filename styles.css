@@ -49,22 +49,21 @@ html{
     margin: 0;
 }
 
-.p1 {
+.bio {
     font-size: 24px;
     color: gray;
     margin-top: 10px;
 }
 
 .title{
-    font-size: 20px;
+    font-size: 24px;
     color: black;
-    margin: 0 auto;
     text-align: center;
 }
 
 .description{
     font-size: 24px;
-    color: gray;
+    color: gray;    
     text-align: center;
 }
 
@@ -72,12 +71,14 @@ html{
     font-size: 26px;
     color: black;
     text-align: center;
+    text-decoration: underline;
 }
 
 .img{
-    width: 500px;
+    width: 350px;
     height: auto;
     display: block;
+    padding-left: 100px;
 }
 
 .button-row {
@@ -103,4 +104,22 @@ html{
 
 .image-buttons:hover{
     transform: scale(1.1);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 20px;
+    flex-wrap: wrap;
+    text-align: left;
+}
+
+.container .img {
+    padding-left: 0;
+}
+
+.container .description {
+    max-width: 600px;
 }
